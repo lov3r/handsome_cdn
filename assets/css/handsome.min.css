@@ -9748,7 +9748,8 @@ form.protected input[type=submit].submit:hover {
 #tocTree {
   max-height: 500px
 }
-@media (min-width:1200px) {
+@media (max-width:1700px) {
+  
   #tag_toc.fixed #toc {
     width: 200px;
     max-height: calc(78vh);
